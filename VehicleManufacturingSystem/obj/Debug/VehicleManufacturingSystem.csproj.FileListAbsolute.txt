@@ -1,0 +1,7 @@
+C:\Users\infos\source\repos\VehicleManufacturingSystem\bin\Debug\VehicleManufacturingSystem.exe.config
+C:\Users\infos\source\repos\VehicleManufacturingSystem\bin\Debug\VehicleManufacturingSystem.exe
+C:\Users\infos\source\repos\VehicleManufacturingSystem\bin\Debug\VehicleManufacturingSystem.pdb
+C:\Users\infos\source\repos\VehicleManufacturingSystem\obj\Debug\VehicleManufacturingSystem.csproj.AssemblyReference.cache
+C:\Users\infos\source\repos\VehicleManufacturingSystem\obj\Debug\VehicleManufacturingSystem.csproj.CoreCompileInputs.cache
+C:\Users\infos\source\repos\VehicleManufacturingSystem\obj\Debug\VehicleManufacturingSystem.exe
+C:\Users\infos\source\repos\VehicleManufacturingSystem\obj\Debug\VehicleManufacturingSystem.pdb
